@@ -4,7 +4,7 @@ Experiment 1 | Introduction to Python Programming
 
 **ALPHABET SOUP PROBLEM:** Create a function that takes a string and returns a string with its letters
 in alphabetical order. <br/>
-Example: alphabet_soup(“hello”) ➞ ehllo
+Example:<br/>alphabet_soup(“hello”) ➞ ehllo<br/>
 alphabet_soup(“hacker”) ➞ acehkr
 
 **EMOTICON PROBLEM:** Create a function that changes specific words into emoticons. Given a sentence
