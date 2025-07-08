@@ -1,6 +1,6 @@
 ## Python Programming
 
-### Experiment 1 | Introduction to Python Programming
+### Introduction to Python Programming
 
 **ALPHABET SOUP PROBLEM:** Create a function that takes a string and returns a string with its letters
 in alphabetical order. <br/>
