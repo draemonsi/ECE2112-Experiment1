@@ -1,4 +1,4 @@
-## Programming-Assignment-1
+## Python Programming
 
 ### Experiment 1 | Introduction to Python Programming
 
